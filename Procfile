@@ -1,1 +1,1 @@
-web: java -jar target/equipa2.jar
+web: java -jar target/ekipa2.jar

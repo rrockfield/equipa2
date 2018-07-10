@@ -4,7 +4,7 @@
 		 xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.rockfield</groupId>
-	<artifactId>equipa2</artifactId>
+	<artifactId>ekipa2</artifactId>
 	<version>1.0</version>
 
 	<parent>
@@ -13,7 +13,7 @@
 		<version>2.0.1.RELEASE</version>
 		<relativePath/>
 	</parent>
-	<name>equipa2</name>
+	<name>ekipa2</name>
 	<packaging>jar</packaging>
 
 	<properties>
@@ -80,7 +80,7 @@
 	</dependencies>
 
 	<build>
-		<finalName>equipa2</finalName>
+		<finalName>ekipa2</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>

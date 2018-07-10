@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.rockfield.equipa2;
+package com.rockfield.ekipa2;
 
 import com.zaxxer.hikari.HikariConfig;
 import com.zaxxer.hikari.HikariDataSource;
