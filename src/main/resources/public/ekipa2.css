@@ -1,0 +1,9 @@
+body {
+	background-color:orange;
+}
+
+.biglogo {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
