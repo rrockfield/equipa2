@@ -1,10 +1,56 @@
 body {
 	background-color: #fbb03b;
+	font-family:Verdana;
+	color:#FFFFEE;
 }
 
-.biglogo {
-	display: block;
-	margin-left: auto;
-	margin-right: auto;
-	width: 100%;
+.top {
+	text-align:center;
+	padding:15px;
+	margin-top:7px;
+}
+
+.links {
+	background-color: #f7931e;
+	font-size:130%;
+	padding:30px;
+}
+
+.banner {
+	height: 100px;
+	width: auto;
+}
+
+.left {
+	float:left;
+	margin-left: 0;
+}
+
+.right {
+	float:right;
+	margin-right: 0;
+}
+
+a:link {
+    color: #FFFFEE; 
+    background-color: transparent; 
+    text-decoration: none;
+}
+
+a:visited {
+    color: #FFFFEE;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #FFFFFF;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:active {
+    color: #FFFFFF;
+    background-color: transparent;
+    text-decoration: none;
 }
