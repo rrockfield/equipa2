@@ -5,20 +5,23 @@ body {
 }
 
 .top {
+	height: 20vw;
+	font-size:2.4vw;
 	text-align:center;
-	padding:15px;
-	margin-top:7px;
 }
 
 .links {
+	background-image: url("division.png");
+	background-repeat: repeat-x;
 	background-color: #f7931e;
-	font-size:130%;
-	padding:30px;
+	font-size: 4vw;
+	padding: 15px;
 }
 
 .banner {
-	height: 100px;
+	height: 20vw;
 	width: auto;
+	padding:0px;
 }
 
 .left {
@@ -29,6 +32,16 @@ body {
 .right {
 	float:right;
 	margin-right: 0;
+}
+
+.bottom {
+	background-color: #fac27f;
+	text-align:center;
+}
+
+.footer {
+	height: 5vw;
+	width: auto;
 }
 
 a:link {
